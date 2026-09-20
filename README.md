@@ -1,0 +1,2 @@
+# diinO
+customer publishing repository
